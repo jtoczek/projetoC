@@ -3,6 +3,7 @@
 typedef struct {
 	int matricula;
 	char nome[30];
+	int a;
 	int idade;
 } TAluno;
 
