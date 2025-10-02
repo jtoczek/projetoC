@@ -9,7 +9,7 @@ typedef struct {
 int qt=0;
 
 void insere(TAluno a[]){
-	 if (qt<30) {	 
+	 if (qt<30) {	 //aaa
 	 	 printf("\ninforme a matricula:");
 	 	 scanf("%d",&a[qt].matricula);
 	 	 printf("informe o a idade:");
